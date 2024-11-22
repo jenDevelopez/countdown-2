@@ -62,7 +62,7 @@ export default function App() {
               <h2 className="text-4xl font-bold text-yellow-400">
                 Cuenta atrás
               </h2>
-              <p className="text-gray-500">Hasta el evento</p>
+              <p className="text-gray-500">Para vernos</p>
             </div>
         {/* {isCountdownActive  && (
           <>
