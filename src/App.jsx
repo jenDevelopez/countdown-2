@@ -13,7 +13,7 @@ export default function App() {
 
     const interval = setInterval(() => {
       //  if (countdownDate) {
-        const targetDate = new Date("2024-11-22T22:30:00");
+        const targetDate = new Date("2024-11-28T17:30:00");
         const difference = new Date(targetDate).getTime() - new Date().getTime();
         if (difference <= 0) {
           clearInterval(interval);
